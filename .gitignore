@@ -1,0 +1,6 @@
+**/wwwroot/app
+bin
+obj
+**/wwwroot/lib
+.suo
+.vs
